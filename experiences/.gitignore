@@ -1,0 +1,7 @@
+# .clone/
+**/.clone/
+**/node_modules/
+**/dist/
+**/.angular/
+**/.vscode/
+.DS_Store
